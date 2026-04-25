@@ -73,7 +73,9 @@ An object containing basic math operations:
 │   │── calculator.test.js
 │   │── caesarCipher.test.js
 │   │── analyzeArray.test.js
+│── .gitignore
 │── babel.config.js
+│── package-lock.json
 │── package.json
 └── README.md
 ```
