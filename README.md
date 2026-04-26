@@ -46,7 +46,7 @@ An object containing basic math operations:
 
 ---
 
-### 📊 Array Analysis
+### Array Analysis
 
 - `analyzeArray(array)`
 - Returns an object containing:
